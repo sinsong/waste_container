@@ -3,6 +3,7 @@ Title: 关于垃圾桶的研究
 Shortname: waste-container
 H1: Research about Waste Container
 Status: Dream
+URL: https://sinsong.github.io/waste_container/
 Date: 2023-06-01
 Editor: literal, Author, 714554019@qq.com
 Abstract: 垃圾桶
